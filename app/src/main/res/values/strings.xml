@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jetpack Compose Movies Catalogue</string>
+    <string name="back">Back</string>
+    <string name="overview">Overview</string>
+    <string name="image_profile">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:1c2cc9e8b559b37f1b92ad3f9cd1e50820220309080223.png</string>
+    <string name="my_name">Muhammad Fakhry Burhanuddin</string>
+    <string name="my_email">fakhry.mmpp@gmail.com</string>
+</resources>
